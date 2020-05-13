@@ -1,1 +1,6 @@
 install.packages("tidyverse")
+install.packages("tidycensus")
+install.packages("rmarkdown")
+install.packages("httr")
+install.packages("shinydashboard")
+install.packages('leaflet')
