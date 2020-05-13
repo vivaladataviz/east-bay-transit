@@ -2,9 +2,12 @@ name: east-bay-transit
 channels:
   - conda-forge
 dependencies:
-  - pandas=1.0*
+  - pandas=1.*
   - altair=4.*
   - jupyterlab=2.*
+  - geopandas=0.7.*
+  - osmnx=0.12.*
+  - geoplot=0.4.*
   - pip=20.*
   - pip:
     - census-data-downloader
