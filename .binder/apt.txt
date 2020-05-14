@@ -1,2 +1,1 @@
-libgdal1-dev 
 libproj-dev
