@@ -3,13 +3,12 @@ channels:
   - conda-forge
 dependencies:
   - pandas=1.*
+  - r-rgdal
   - altair=4.*
   - jupyterlab=2.*
   - geopandas=0.7.*
   - osmnx=0.12.*
   - geoplot=0.4.*
-  - proj=7.*
-  - r-rgdal
   - pip=20.*
   - pip:
     - census-data-downloader
