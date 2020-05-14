@@ -9,7 +9,7 @@ dependencies:
   - osmnx=0.12.*
   - geoplot=0.4.*
   - proj=7.*
-  - r-rgdal=1.*
+  - r-rgdal
   - pip=20.*
   - pip:
     - census-data-downloader
