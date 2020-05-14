@@ -3,7 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - pandas=1.*
-  - r-rgdal
   - altair=4.*
   - jupyterlab=2.*
   - geopandas=0.7.*
